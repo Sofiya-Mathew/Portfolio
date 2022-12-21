@@ -1,40 +1,53 @@
 export const projects = [
+
+  {
+    title: 'Ecommerce Application',
+    description: "A fully functional Ecommerce application which comes with 3 modules Users,Admin and api.User can manage cart and order while admin can manage products and users and see statistics.",
+    image: '/images/img6.png',
+    tags: ["MERN,Redux,Stripe,Firebase,JWT"],
+    visit: 'https://github.com/Sofiya-Mathew/MERN_Stack_Ecommerce-App.git',
+    source: 'https://github.com/Sofiya-Mathew/MERN_Stack_Ecommerce-App.git',
+    id: 0,
+  },
+
   {
     title: 'YouTube clone app',
     description: "Utilized React, Node.js, Express,REdux,Firebase & MongoDB.User can upload videos like and dislike, comment and subscribe to channels.",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React','Redux','firebase', 'Node'],
-    source: 'https://google.com',
+      tags: ["MERN,Redux,Firebase,JWT"],
+    source: 'https://github.com/Sofiya-Mathew/youtube_full_stack.git',
     visit: 'https://github.com/Sofiya-Mathew/youtube_full_stack.git',
-    id: 0,
+    id: 1,
+  },
+  {
+    title: 'GPT3 Website',
+    description: "A design based website of GPT3 which gives importance to modern UI UX design",
+      image: '/images/img5.png',
+      tags: ['REACT JS'],
+    source: 'https://magical-kulfi-5f03e7.netlify.app/',
+    visit: 'https://github.com/Sofiya-Mathew/GPT3_UI_UX_REACT.git',
+    id: 2,
+  },
+  {
+    title: 'Restaurant App',
+    description:"A react app for displaying restaurants using rest API.",
+    image: '/images/7.png',
+    tags: ['REACT'],
+    source: 'https://github.com/Sofiya-Mathew/REACT_Restaurant_App.git',
+    visit: 'https://github.com/Sofiya-Mathew/REACT_Restaurant_App.git',
+    id: 3,
   },
   {
     title: 'Bank App',
     description:"Users can register and login to the app.Users can deposit and withdraw from their accounts and see their transaction details.",
     image: '/images/2.png',
-    tags: ['Angular', 'Mongo', 'Express','Node.js'],
-    source: '/',
+    tags: ['MEAN,JWT'],
+    source: 'https://github.com/Sofiya-Mathew/Bank_app_angular.git',
     visit: 'https://github.com/Sofiya-Mathew/Bank_app_angular.git',
-    id: 1,
+    id: 4,
   },
-  {
-    title: 'Shopping Cart',
-    description: "A simple shopping cart in which users can see various produtcs and add to the cart.",
-      image: '/images/3.png',
-      tags: ['JS','Bootstrap','CSS'],
-    source: 'https://sofiya-mathew.github.io/Shopping-Cart-Using_JS/',
-    visit: '  https://github.com/Sofiya-Mathew/Shopping-Cart-Using_JS.git',
-    id: 2,
-  },
-  {
-    title: 'Movie App',
-    description: "Utilized TMDB API. User can search for movies.",
-    image: '/images/4.png',
-    tags: ['JS', 'TMDB API','Bootstrap','CSS'],
-    visit: 'https://github.com/Sofiya-Mathew/Movie_App.git',
-    source: 'https://sofiya-mathew.github.io/Movie_App/',
-    id: 3,
-  },
+  
+ 
 ];
 
 export const TimeLineData = [
