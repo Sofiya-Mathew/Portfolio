@@ -5,8 +5,8 @@ export const projects = [
     description: "A fully functional Ecommerce application which comes with 3 modules Users,Admin and api.User can manage cart and order while admin can manage products and users and see statistics.",
     image: '/images/img6.png',
     tags: ["MERN,Redux,Stripe,Firebase,JWT"],
-    visit: 'https://github.com/Sofiya-Mathew/MERN_Stack_Ecommerce-App.git',
-    source: 'https://github.com/Sofiya-Mathew/MERN_Stack_Ecommerce-App.git',
+    visit: 'https://github.com/Sofiya-Mathew/MERN_ECOMMERCE.git',
+    source: 'https://github.com/Sofiya-Mathew/MERN_ECOMMERCE.git',
     id: 0,
   },
 
