@@ -42,8 +42,8 @@ export const projects = [
     description:"Users can register and login to the app.Users can deposit and withdraw from their accounts and see their transaction details.",
     image: '/images/2.png',
     tags: ['MEAN,JWT'],
-    source: 'https://github.com/Sofiya-Mathew/Bank_app_angular.git',
-    visit: 'https://github.com/Sofiya-Mathew/Bank_app_angular.git',
+    source: 'https://github.com/Sofiya-Mathew/MEAN_BANK_APP.git',
+    visit: 'https://github.com/Sofiya-Mathew/MEAN_BANK_APP.git',
     id: 4,
   },
   
