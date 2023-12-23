@@ -1,5 +1,31 @@
 export const projects = [
-
+  {
+    title: 'Finance ERP Application',
+    description: "Developed and implemented a comprehensive Finance Module within an ERP system.The module was designed to streamline financial processes, enhance accuracy, and provide real-time insights for informed decision-making.",
+    image: '/images/finance.png',
+    tags: ["Angular,.NET,Postgresql,Bold Report,Syncfusion"],
+    // visit: 'https://github.com/Sofiya-Mathew/MERN_ECOMMERCE.git',
+    // source: 'https://github.com/Sofiya-Mathew/MERN_ECOMMERCE.git',
+    id: 0,
+  },
+  {
+    title: 'CRM Application',
+    description: "Designed, developed, and implemented a comprehensive Customer Relationship Management (CRM) application from scratch. The CRM system aimed to streamline and enhance customer interactions, improve sales processes, and centralize customer data for more informed decision-making.",
+    image: '/images/CRM.png',
+    tags: ["Angular,.NET,Bootstrap,Postgresql"],
+    // visit: 'https://github.com/Sofiya-Mathew/MERN_ECOMMERCE.git',
+    // source: 'https://github.com/Sofiya-Mathew/MERN_ECOMMERCE.git',
+    id: 1,
+  },
+  {
+    title: 'HRMS Application',
+    description: "Led the design, development, and implementation of a comprehensive Human Resource Management System (HRMS) application.The HRMS system aimed to streamline HR processes, enhance employee management, and improve overall workforce efficiency.",
+    image: '/images/hrms.png',
+    tags: ["Angular,.NET,Bootstrap,Primeng,Postgresql"],
+    // visit: 'https://github.com/Sofiya-Mathew/MERN_ECOMMERCE.git',
+    // source: 'https://github.com/Sofiya-Mathew/MERN_ECOMMERCE.git',
+    id: 2,
+  },
   {
     title: 'Ecommerce Application',
     description: "A fully functional Ecommerce application which comes with 3 modules Users,Admin and api.User can manage cart and order while admin can manage products and users and see statistics.",
@@ -7,7 +33,7 @@ export const projects = [
     tags: ["MERN,Redux,Stripe,Firebase,JWT"],
     visit: 'https://github.com/Sofiya-Mathew/MERN_ECOMMERCE.git',
     source: 'https://github.com/Sofiya-Mathew/MERN_ECOMMERCE.git',
-    id: 0,
+    id: 3,
   },
 
   {
@@ -17,7 +43,7 @@ export const projects = [
       tags: ["MERN,Redux,Firebase,JWT"],
     source: 'https://github.com/Sofiya-Mathew/youtube_full_stack.git',
     visit: 'https://github.com/Sofiya-Mathew/youtube_full_stack.git',
-    id: 1,
+    id: 4,
   },
   {
     title: 'GPT3 Website',
@@ -26,7 +52,7 @@ export const projects = [
       tags: ['REACT JS'],
     source: 'https://magical-kulfi-5f03e7.netlify.app/',
     visit: 'https://github.com/Sofiya-Mathew/GPT3_UI_UX_REACT.git',
-    id: 2,
+    id: 5,
   },
   {
     title: 'Restaurant App',
@@ -35,7 +61,7 @@ export const projects = [
     tags: ['REACT'],
     source: 'https://github.com/Sofiya-Mathew/REACT_Restaurant_App.git',
     visit: 'https://github.com/Sofiya-Mathew/REACT_Restaurant_App.git',
-    id: 3,
+    id: 6,
   },
   {
     title: 'Bank App',
@@ -44,16 +70,13 @@ export const projects = [
     tags: ['MEAN,JWT'],
     source: 'https://github.com/Sofiya-Mathew/MEAN_BANK_APP.git',
     visit: 'https://github.com/Sofiya-Mathew/MEAN_BANK_APP.git',
-    id: 4,
+    id: 7,
   },
-  
- 
 ];
 
 export const TimeLineData = [
-  { year: 2012, text: '', },
-  { year: 2014, text: 'High School, N.H.S Kundukad, 98%', },
   { year: 2016, text: 'Higher Secondary, G.H.S.S Villadom, 84%', },
   { year: 2022, text: 'B TECH in Computer science, HGAE, 65%', },
-  { year: 2022, text: 'Pursuing MEARN stack development course,Luminar tecnolab', },
+  { year: 2022, text: 'Done MEARN stack development course,Luminar tecnolab', },
+  { year: 2023, text: 'software Engineer,Thomsun Infocare', },
 ];

@@ -12,9 +12,9 @@ const Hero = (props) => (
           Hello I'm Sofiya Mathew
         </SectionTitle>
         <SectionText>
-          I'm a Fullstack developer (MEAN & MERN) who is passionate about creating beautiful and scalable fullstack products with great user experiences
+          I'm a Fullstack software engineer who is passionate about creating beautiful and scalable fullstack products with great user experiences
        </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={props.handleClick}>Know More</Button>
       </LeftSection>
     </Section>
   </>);
